@@ -1,0 +1,12 @@
+/*===
+    Author: Corey Tran
+    one_page_website
+====*/
+html {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    width: 150px;
+    margin: 10px;
+    border: 5px;
+    border-radius: 25px;
+}
